@@ -7,7 +7,7 @@
 # uci set fstab.@global[0].check_fs=1
 # uci commit fstab
 
-# ¹Ì¼şÃû³Æ
+# å›ºä»¶åç§°
 uci set system.@system[0].hostname=k2p
 uci set system.@system[0].timezone=CST-8
 uci set system.@system[0].zonename=Asia/Shanghai
