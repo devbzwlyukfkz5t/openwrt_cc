@@ -1,7 +1,8 @@
 OpenWrt Cloud Compiler
-https://github.com/coolsnowwolf/lede
-https://github.com/P3TERX/Actions-OpenWrt
-https://github.com/openwrt/openwrt/branches/all
+
+- https://github.com/coolsnowwolf/lede
+- https://github.com/P3TERX/Actions-OpenWrt
+- https://github.com/openwrt/openwrt/branches/all
 
 rm .config && nano .config && make menuconfig
 
