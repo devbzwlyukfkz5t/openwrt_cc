@@ -15,7 +15,7 @@ env:
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: true
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: rt-ac57u
+  FIRMWARE_TAG: ac57u
   TZ: Asia/Shanghai
 
 jobs:
