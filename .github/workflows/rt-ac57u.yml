@@ -7,8 +7,8 @@ on:
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: openwrt-24.10
-  REPO_TAG: v24.10.0
+  REPO_BRANCH: openwrt-23.05
+  REPO_TAG: v23.05.6
   CONFIG_FILE: configs/rt-ac57u.config
   DIY_SCRIPT: rt-ac57u.sh
   CLASH_KERNEL: mipsel_24kc
